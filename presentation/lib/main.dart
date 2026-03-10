@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_deck/flutter_deck.dart';
+import 'package:flutter_deck_web_client/flutter_deck_web_client.dart';
 
 import 'slides/challenges_slide.dart';
 import 'slides/commands_slide.dart';
@@ -20,6 +21,7 @@ class WorkshopPresentation extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return FlutterDeckApp(
+      client: FlutterDeckWebClient(),
       themeMode: ThemeMode.dark,
       darkTheme: FlutterDeckThemeData.dark().copyWith(
         slideTheme: const FlutterDeckSlideThemeData(

@@ -20,7 +20,7 @@
 1. **Ingen manuell kod:** Du får inte skriva eller ändra en enda rad kod själv.
 2. **Endast prompting:** All kod ska genereras av Copilot. Om något går fel — prompta fram lösningen.
 3. **Manuell drift OK:** Du får skapa filer, köra kommandon i terminalen och göra git-commits — men koden i filerna styrs av AI:n.
-4. **Team eller solo:** Jobba ensam eller i grupp om max 3 personer.
+4. **Team eller solo:** Solo eller i grupp — helt valfritt.
 5. **Deadline: kl 20:00** — då är det Show & Tell!
 
 ---

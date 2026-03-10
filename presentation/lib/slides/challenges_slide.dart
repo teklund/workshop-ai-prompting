@@ -15,7 +15,7 @@ class ChallengesSlide extends FlutterDeckSlideWidget {
 - README:n har två förberedda spår: Project Zero-Day (.NET CLI) och NetCrack (HTML/JS clicker) — men det är bara exempel.
 - Ingen manuell kod — allt genereras av Copilot. Går det fel? Prompta fram en fix.
 - Manuell drift OK: skapa filer, döp om dem, kör terminalen.
-- Team (max 3) eller solo — valfritt.
+- Solo eller i grupp — helt valfritt.
 - Deadline 20:00 — Show & Tell då.
 - Länk: ai-workshop.teklund.dev — allt kring workshopen och presentationen finns där.
 ''',
@@ -101,7 +101,8 @@ class ChallengesSlide extends FlutterDeckSlideWidget {
                             icon: Icons.group,
                             title: 'Team eller solo — ditt val',
                             description:
-                                'Kör ensam eller sätt ihop ett lag — max 3 personer. Ju fler idéer, desto bättre prompt!',
+                                'Valfritt — har du bästa idén eller vill du slå dig ihop med en kollega?',
+
                             color: const Color(0xFFCE93D8),
                           ),
                           const SizedBox(height: 16),
