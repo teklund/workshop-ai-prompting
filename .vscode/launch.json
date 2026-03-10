@@ -1,0 +1,61 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Presentation",
+            "request": "launch",
+            "type": "dart",
+            "cwd": "${workspaceFolder}/presentation",
+            "program": "lib/main.dart",
+            "flutterMode": "debug"
+        },
+        {
+            "name": "Launch Presentation (macOS)",
+            "request": "launch",
+            "type": "dart",
+            "cwd": "${workspaceFolder}/presentation",
+            "program": "lib/main.dart",
+            "flutterMode": "debug",
+            "args": [
+                "-d",
+                "macos"
+            ]
+        },
+        {
+            "name": "Launch Presentation (Windows)",
+            "request": "launch",
+            "type": "dart",
+            "cwd": "${workspaceFolder}/presentation",
+            "program": "lib/main.dart",
+            "flutterMode": "debug",
+            "args": [
+                "-d",
+                "windows"
+            ]
+        },
+        {
+            "name": "Launch Presentation (Linux)",
+            "request": "launch",
+            "type": "dart",
+            "cwd": "${workspaceFolder}/presentation",
+            "program": "lib/main.dart",
+            "flutterMode": "debug",
+            "args": [
+                "-d",
+                "linux"
+            ]
+        },
+        {
+            "name": "Launch Presentation (Chrome)",
+            "request": "launch",
+            "type": "dart",
+            "cwd": "${workspaceFolder}/presentation",
+            "program": "lib/main.dart",
+            "flutterMode": "debug",
+            "args": [
+                "-d",
+                "chrome"
+            ]
+        }
+    ]
+}

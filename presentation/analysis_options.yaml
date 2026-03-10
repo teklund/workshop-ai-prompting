@@ -1,0 +1,20 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    unused_import: warning
+    unused_local_variable: warning
+  exclude:
+    - build/**
+
+linter:
+  rules:
+    - avoid_empty_else
+    - avoid_print
+    - avoid_unnecessary_containers
+    - cancel_subscriptions
+    - prefer_const_constructors
+    - prefer_const_declarations
+    - prefer_final_fields
+    - sized_box_for_whitespace
+    - use_key_in_widget_constructors
