@@ -20,7 +20,7 @@ cd ProjectZeroDay
 ```
 
 > 💡 Detta skapar `.github/copilot-instructions.md` som gäller för hela projektet.
-> 🇬🇧 Tips: Custom Instructions på engelska ger ofta vassare resultat — men svenska fungerar också!
+> 🇬🇧 **Tips om språk:** Modellen förstår instruktioner (regler för projektet) och kod bäst på **engelska**, men du kan fortsätta skriva dina vanliga chatt-prompts på **svenska**. Det ger bäst balans av kvalitet och bekvämlighet!
 
 ---
 

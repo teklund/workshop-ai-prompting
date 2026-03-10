@@ -45,7 +45,7 @@ class ChallengesSlide extends FlutterDeckSlideWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 const Text(
-                      '🚫⌨️ The Zero-Touch Challenge',
+                      '🚫⌨️ Zero-Touch Challenge',
                       style: TextStyle(
                         fontSize: 60,
                         fontWeight: FontWeight.bold,
