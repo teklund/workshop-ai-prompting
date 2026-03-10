@@ -1,12 +1,12 @@
 {
-    "name": "presentation",
-    "short_name": "presentation",
+    "name": "AI-kodkväll med GitHub Copilot",
+    "short_name": "AI-kodkväll",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#0B0F19",
+    "theme_color": "#0B0F19",
+    "description": "Workshop: AI-kodkväll med GitHub Copilot",
+    "orientation": "landscape",
     "prefer_related_applications": false,
     "icons": [
         {

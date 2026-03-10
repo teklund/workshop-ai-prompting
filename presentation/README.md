@@ -2,6 +2,8 @@
 
 Flutter-baserad slidedeck för workshopen _"Från Gissningar till Pricksäkerhet med GitHub Copilot"_.
 
+🌐 **[Kör presentationen online →](https://teklund.github.io/workshop-ai-prompting/)**
+
 ---
 
 ## 🚀 Köra presentationen

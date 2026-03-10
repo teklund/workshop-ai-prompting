@@ -3,6 +3,8 @@
 **Tema:** Från "Gissningar" till "Pricksäkerhet" med GitHub Copilot
 **Utmaning:** Bygg något med Copilot — utan att skriva en enda rad kod själv!
 
+🎤 **[Öppna presentationen →](https://teklund.github.io/workshop-ai-prompting/)** · [Hur presentationen är gjord](presentation/README.md)
+
 > 🎼 _Ikväll är ni inte kodare — ni är arkitekter och dirigenter. Om koden suger är det din instruktion det är fel på, inte dina fingrar._
 
 ## 📋 Innan du börjar
@@ -56,7 +58,3 @@ Bygg vad du vill — ramverk och tema är helt fritt. Välj ett av de förberedd
 ---
 
 Have fun! 🎉
-
----
-
-> 🎞️ Nyfiken på presentationen som visades? Se [presentation/README.md](presentation/README.md) för alla slides och talaranteckningar.
